@@ -1,0 +1,94 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://aromarasa.com/wp-content/uploads/2021/04/cara-membuat-es-campur-spesial-enak-tanpa-ribet.jpg",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://www.sasa.co.id/medias/page_medias/es_cendol_nangka.jpg",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://img-global.cpcdn.com/recipes/1093877700c193f7/680x482cq70/cinnamon-hot-milk-tea-foto-resep-utama.jpg",
+            "nama": "Hot Milk Tea",
+            "size": "100 Gram",
+            "harga": "176.000",
+            "link": "https://www.tokopedia.com/rekomendasi/8844884527?srsltid=ASuE1wTDYKF1Wtew7BlSGI-fe6VgiwcthVi7qjp8_sKBQXjEsd9qsuuZctk"
+        }
+    ],
+    "cemilan": [
+        {
+            "foto": "https://cdn1-production-images-kly.akamaized.net/hv0ZAoKLfYbsIuKxBptkG5hutgQ=/1x30:1000x593/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3328136/original/010708500_1608347065-shutterstock_247595971.jpg",
+            "nama": "Nugget",
+            "size": "100 Gram",
+            "harga": "25.000",
+            "link": "https://shopee.co.id/product/33161800/16945971457?gclid=EAIaIQobChMIjMCNgYevgAMVvZJmAh1-JQKlEAQYAyABEgIS8vD_BwE"
+        },
+        {
+            "foto": "https://yoona.id/wp-content/uploads/2023/02/kalori-sosis-goreng.jpg",
+            "nama": "Sosis",
+            "size": "100 Gram",
+            "harga": "27.500",
+            "link": "https://shopee.co.id/product/6019875/11147133893?gclid=EAIaIQobChMI_8iS0IevgAMVHy2DAx1zdwPXEAQYASABEgJ_evD_BwE"
+        },
+        {
+            "foto": "https://cafedelites.com/wp-content/uploads/2020/05/Churros-Recipe-IMAGE-124.jpg",
+            "nama": "Churros",
+            "size": "100 Gram",
+            "harga": "16.900",
+            "link": "https://shopee.co.id/product/227001445/23208631791?gclid=EAIaIQobChMIzpmkkYivgAMVDBeDAx1MyglYEAQYBCABEgLjdvD_BwE"
+        }
+    ]
+}
